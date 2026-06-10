@@ -13,4 +13,4 @@ A robust, console-based banking application built in Python to simulate real-wor
 * **Core Concepts Used:** Exception handling, Dictionary-driven mock databases, Control flow optimization.
 
 ## Author
-* **Sujnana Deevige** (@sujnanadeevige108) - Engineering Student
+* **Sujnana Deevige** ([@Aravinda-bit](https://github.com)) - Engineering Student
